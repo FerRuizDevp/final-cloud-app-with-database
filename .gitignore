@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore virtual environment
+djangoenv/
+*.pyc
+__pycache__/
+db.sqlite3
